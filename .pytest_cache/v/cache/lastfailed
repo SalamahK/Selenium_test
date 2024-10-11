@@ -1,0 +1,4 @@
+{
+  "tests/test_courses.py::TestCourses::test_create_edit_delete_course": true,
+  "tests/test_students.py::TestStudents::test_create_edit_delete_student": true
+}
